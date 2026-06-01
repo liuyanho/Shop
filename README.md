@@ -126,7 +126,7 @@ https://github.com/liuyanho/Shop
 
 網站連結：
 
-(https://shop-rho-rust.vercel.app/)
+https://shop-rho-rust.vercel.app
 
 ---
 
